@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReceiverDemo</string>
+    <string name="btn_send">发送广播</string>
+    <string name="btn_send2">动态广播</string>
+</resources>
